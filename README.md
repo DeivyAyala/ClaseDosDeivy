@@ -11,11 +11,6 @@ Creación de repositorios y  manejo de MarkDown
 **negrita** o __negrita__
 ***negrita cursiva*** o ___negrita cursiva___
 
-
-
-
-## Referencias 
-[Google](https://www.google.com)
 ## Código
 `código en línea`
 
@@ -28,3 +23,8 @@ def hola_mundo():
 |--------------|--------------|--------------|
 | Texto 1      | Texto 2      | Texto 3      |
 | Texto 4      | Texto 5      | Texto 6      |
+
+
+## Referencias 
+[Google](https://www.google.com)
+
