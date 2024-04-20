@@ -7,4 +7,4 @@ Creación de repositorios y  manejo de MarkDown
 - Version dos
 
 ## Referencias 
-<a herf=[Google](https://www.google.com)> </a>
+[Google](https://www.google.com)
