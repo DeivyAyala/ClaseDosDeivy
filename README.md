@@ -1,4 +1,4 @@
 # ClaseDosDeivy
 ## Titulo Dos
-### Tutulo Tres
+### Titulo Tres
 Creación de repositorios y  manejo de MarkDown
