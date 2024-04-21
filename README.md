@@ -27,7 +27,7 @@ def hola_mundo():
 ## Imágenes
 
 <p align="center">
-<img src="/logo/GitHub-Logo.png" height="100">
+<img src="GitHub-Logo.png" height="100">
 </p>
 
 ## Referencias 
