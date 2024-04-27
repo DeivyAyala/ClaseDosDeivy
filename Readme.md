@@ -32,3 +32,12 @@ que pueden mejorar conforme recopilen información.
 | Temas        | Texto 2      | Texto 3      |
 | Actividades  | Texto 5      | Texto 6      |
 
+
+
+## Imágenes
+
+<p align="center">
+<img src="./Logo/artificial.png" height="200">
+</p>
+
+
