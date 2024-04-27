@@ -34,10 +34,11 @@ que pueden mejorar conforme recopilen información.
 
 
 
-## Imágenes
 
-<p align="center">
+## Referencias 
+[<p align="center">
 <img src="./Logo/artificial.png" height="200">
-</p>
+</p>](https://www.google.com)
+
 
 
